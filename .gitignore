@@ -54,6 +54,10 @@ Makefile.in
 *.XML
 *.opensdf
 *.db
+*.db-shm
+*.db-wal
+*.opendb
+.vs 
 
 Release/
 Debug/
